@@ -1,0 +1,14 @@
+body {
+    background-image: url(CUTE!!.jpg);
+    color: black;
+    font-family: 'Yeon Sung', cursive;
+}
+#heading{
+    color:rgb(255, 124, 255);
+    background: radial-gradient(rgb(139, 209, 255) 0%, rgb(212, 0, 255) 100%);
+    margin-top: 0px;
+    line-height: 2;
+}
+canvas{
+    margin-top: 70px;
+}
